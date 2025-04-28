@@ -36,14 +36,14 @@ This project features two interactive dashboards built with Tableau: a **Sales D
 ```
 Sales-and-Customer-Insights-Visualisation/
 │
-├── datasets/                                 # Raw datasets used for the project (sales transactions, customer and product data)
-│
+├── datasets/                                 # Raw datasets used for the project 
+│                                               (sales transactions, customer and product data)
+|
 ├── images/                                   # Dashboard images
 │   ├── customer_dashboard.png                # Customer dasbboard image
 │   ├── sales_dashboard.png                   # Sales dashboard image
 │
-├── scripts/                                  # SQL scripts for ETL, transformations, analytics and reporting
-│
 ├── LICENSE                                   # License information for the repository
 ├── README.md                                 # Project overview and information
+├── Sales & Customer Dashboards.twbx          # Tableau dashboard
 ```
